@@ -16,3 +16,20 @@ For first hackathon
     <script src="js/main.js"></script>
 </body>
 </html>
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#job-list {
+    margin-top: 20px;
+}
